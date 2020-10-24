@@ -3,7 +3,7 @@
  * [x] Initialize a git repo on your local computer **git init**
  * [x] Check the status of a git repo **git status**
  * [x] Stage files for commit **git commit**
- * [x] Commit files
+ * [x] Commit files **beirom azt hogy kukacmalac**
  * [x] Log commits
  * [x] Initialize a git repo on github
  * [x] Push commits to github
