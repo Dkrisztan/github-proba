@@ -2,7 +2,7 @@
  * [x] Configure local git with name and email **git config --global user.email "email@gmail.com" illetve git config --global user.name "Dkrisztan"**
  * [x] Initialize a git repo on your local computer **git init**
  * [x] Check the status of a git repo **git status**
- * [x] Stage files for commit
+ * [x] Stage files for commit **git commit**
  * [x] Commit files
  * [x] Log commits
  * [x] Initialize a git repo on github
