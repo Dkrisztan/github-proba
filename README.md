@@ -4,7 +4,7 @@
  * [x] Check the status of a git repo **git status**
  * [x] Stage files for commit **git commit**
  * [x] Commit files **beirom azt hogy kukacmalac**
- * [x] Log commits
+ * [x] Log commits **megvaltozott nah**
  * [x] Initialize a git repo on github
  * [x] Push commits to github
  * [x] Fork a github repo
